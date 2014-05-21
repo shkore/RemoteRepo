@@ -106,7 +106,7 @@ public class EmployeeAddControllerTest {
 		Employee emp = new Employee();
 		emp.setCode(10665);
 		emp.setName("Vidya");
-		assertEquals("Code set is correct", 10665, 10665);
+		assertNotEquals("Code set is correct", 10665, 10665);
 		assertNotNull(emp);
 	}
 }
