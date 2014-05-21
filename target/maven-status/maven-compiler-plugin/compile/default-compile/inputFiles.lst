@@ -1,7 +1,7 @@
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\service\EmployeeService.java
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\controller\EmployeeController.java
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\controller\EmployeeAddController.java
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\controller\EmployeeDeleteController.java
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\command\EmployeeCommand.java
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\domain\Employee.java
-C:\Users\manjuls\Desktop\EmpployeeManagementSystemNEW\src\main\java\com\sample\mvc\controller\EmployeeEditController.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\controller\EmployeeController.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\command\EmployeeCommand.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\controller\EmployeeDeleteController.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\controller\EmployeeEditController.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\controller\EmployeeAddController.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\domain\Employee.java
+D:\ALMWorkspace\EmpMngmtSystem\src\main\java\com\sample\mvc\service\EmployeeService.java
