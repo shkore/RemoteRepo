@@ -8,7 +8,7 @@
   <name>Employee Management System</name>
   <url>http://maven.apache.org</url>
   
-  <dependencies>
+<dependencies>
 	<dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
